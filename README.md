@@ -1,10 +1,10 @@
 # GA Course Catalogue
 
-This repository serves as the catalogue for **General Assembly's standard curriculum**. It provides an overview of all courses and programs built using the reusable curriculum modules contained within this organization.
+This repository serves as the catalogue for **General Assembly's modular curriculum**. It provides a table of contents for all courses and programs built using the reusable content modules contained within this organization.
 
 ## About this Organization
 
-The **GA Curriculum** organization contains the building blocks used to create and maintain General Assembly's *off the shelf* courses and programs. Each repository in this organization represents a **single curriculum module** focused on a specific topic.
+The **GA Curriculum** org contains the building blocks used to create and maintain General Assembly's standard "off the shelf" courses and programs. Each repository in this organization represents a **single curriculum module** focused on a specific topic.
 
 These modules are designed to be:
 
@@ -16,8 +16,6 @@ These modules are designed to be:
 Rather than storing all course content in a single repository, courses are **constructed from multiple module repositories**. Each course listed below represents a collection of these modules organized into a complete learning experience.
 
 ## Courses
-
-The following courses are built from the modular curriculum contained in this organization.
 
 | Course | Details |
 |---|---|
