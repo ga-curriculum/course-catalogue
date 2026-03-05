@@ -17,21 +17,21 @@ Rather than storing all course content in a single repository, courses are **con
 
 ## Courses
 
-| Course | Details |
-|---|---|
-| [Advanced Python for Developers](./course-pages/advanced-python-for-developers.md) | Full Time   40 Hour   Short Course |
-| [AI Enabled Data Professionals](./course-pages/ai-enabled-data-professionals.md) | 1 Day   7 Hour   Workshop |
-| [AI Solution Architect](./course-pages/ai-solution-architect.md) | Full Time   40 Hour   Short Course |
-| [AI Superpowered Data Professionals](./course-pages/ai-superpowered-data-professionals.md) | Incompete |
-| [Foundational Java](./course-pages/foundational-java.md) | Full or Part Time   1 Year   Apprenticeship |
-| [Information Technology Bootcamp](./course-pages/information-technology-bootcamp.md) | Part Time   240 Hours   Bootcamp |
-| [Java Short Course](./course-pages/java-short-course.md) | Full or Part Time   40 Hour or 10 Week   Short Course |
-| [Machine Learning and Applied AI](./course-pages/machine-learning-and-applied-ai.md) | Full Time  26 Hour  Short Course |
-| [Modern Engineering Architecture](./course-pages/modern-engineering-architecture.md) | Full Time   40 Hour   Short Course |
-| [Prework Python Fundamentals](./course-pages/prework-python-fundamentals.md) | Async   3 Hour   Prework |
-| [Python Career Development Program](./course-pages/python-career-development-program.md) | Full or Part Time   1 Year   Apprenticeship |
-| [Python Programming Short Course](./course-pages/python-programming-short-course.md) | Full or Part Time   40 Hour or 10 Week   Short Course |
-| [Python Testing and Reliability](./course-pages/python-testing-and-reliability.md) | Full Time   40 Hour   Short Course |
-| [React Development Short Course](./course-pages/react-development-short-course.md) | Full Time   40 Hour   Short Course |
-| [Software Engineering Bootcamp](./course-pages/software-engineering-bootcamp.md) | Full or Part Time   12 or 32 Week   Bootcamp |
-| [Software Engineering Bootcamp Prework](./course-pages/software-engineering-bootcamp-prework.md) | Async   10 Hour  Prework |
+| Course | Format | Duration | Program Type |
+|---|---|---|---|
+| [Advanced Python for Developers](./course-pages/advanced-python-for-developers.md) | Full Time | 40 Hours | Short Course |
+| [AI Enabled Data Professionals](./course-pages/ai-enabled-data-professionals.md) | 1 Day | 7 Hours | Workshop |
+| [AI Solution Architect](./course-pages/ai-solution-architect.md) | Full Time | 40 Hours | Short Course |
+| [AI Superpowered Data Professionals](./course-pages/ai-superpowered-data-professionals.md) | — | — | Incomplete |
+| [Foundational Java](./course-pages/foundational-java.md) | Full or Part Time | 1 Year | Apprenticeship |
+| [Information Technology Bootcamp](./course-pages/information-technology-bootcamp.md) | Part Time | 240 Hours | Bootcamp |
+| [Java Short Course](./course-pages/java-short-course.md) | Full or Part Time | 40 Hours / 10 Weeks | Short Course |
+| [Machine Learning and Applied AI](./course-pages/machine-learning-and-applied-ai.md) | Full Time | 26 Hours | Short Course |
+| [Modern Engineering Architecture](./course-pages/modern-engineering-architecture.md) | Full Time | 40 Hours | Short Course |
+| [Prework Python Fundamentals](./course-pages/prework-python-fundamentals.md) | Async | 3 Hours | Prework |
+| [Python Career Development Program](./course-pages/python-career-development-program.md) | Full or Part Time | 1 Year | Apprenticeship |
+| [Python Programming Short Course](./course-pages/python-programming-short-course.md) | Full or Part Time | 40 Hours / 10 Weeks | Short Course |
+| [Python Testing and Reliability](./course-pages/python-testing-and-reliability.md) | Full Time | 40 Hours | Short Course |
+| [React Development Short Course](./course-pages/react-development-short-course.md) | Full Time | 40 Hours | Short Course |
+| [Software Engineering Bootcamp](./course-pages/software-engineering-bootcamp.md) | Full or Part Time | 12 or 32 Weeks | Bootcamp |
+| [Software Engineering Bootcamp Prework](./course-pages/software-engineering-bootcamp-prework.md) | Async | 10 Hours | Prework |
