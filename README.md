@@ -21,20 +21,20 @@ The following courses are built from the modular curriculum contained in this or
 
 | Course | Details |
 |---|---|
-| [advanced-python-for-developers](./course-pages/advanced-python-for-developers.md) | Full Time · 40 Hour · Short Course |
-| [ai-enabled-data-pros](./course-pages/ai-enabled-data-pros.md) | |
-| [ai-solution-architect-deloitte-ENT](./course-pages/ai-solution-architect-deloitte-ENT.md) | Full Time · 40 Hour · Short Course |
-| [ai-superpowered-data-pros](./course-pages/ai-superpowered-data-pros.md) | |
-| [applied-ai-for-engineers](./course-pages/applied-ai-for-engineers.md) | Full Time · 6 Hour or 16 Hour · Workshop |
-| [information-technology-bootcamp](./course-pages/information-technology-bootcamp.md) | Part Time · 240 Hours · Bootcamp |
-| [Foundational Java](./course-pages/foundational-java.md) | Full or Part Time · 1 Year · Apprenticeship |
-| [java-short-course](./course-pages/java-short-course.md) | Full or Part Time · 40 Hour or 10 Week · Short Course |
-| [Machine-Learning-and-Applied-AI](./course-pages/Machine-Learning-and-Applied-AI.md) | |
-| [modern-engineering-architecture](./course-pages/modern-engineering-architecture.md) | Full Time · 40 Hour · Short Course |
-| [nypl-ai-engineering-workshop](./course-pages/nypl-ai-engineering-workshop.md) | AI-Assisted Software Engineering Workshop for NYPL — 6-hour in-person workshop using Google Gemini + GitHub Copilot |
-| [python-career-development-program](./course-pages/python-career-development-program.md) | Full or Part Time · 1 Year · Apprenticeship |
-| [python-programming-short-course](./course-pages/python-programming-short-course.md) | Full or Part Time · 40 Hour or 10 Week · Short Course |
-| [python-testing-and-reliability](./course-pages/python-testing-and-reliability.md) | Full Time · 40 Hour · Short Course |
-| [react-development-short-course](./course-pages/react-development-short-course.md) | Full Time · 40 Hour · Short Course |
-| [software-engineering-bootcamp](./course-pages/software-engineering-bootcamp.md) | Full or Part Time · 12 or 32 Week · Bootcamp |
-| [software-engineering-bootcamp-prework](./course-pages/software-engineering-bootcamp-prework.md) | |
+| [Advanced Python for Developers](./course-pages/advanced-python-for-developers.md) | Full Time   40 Hour   Short Course |
+| [AI Enabled Data Professionals](./course-pages/ai-enabled-data-professionals.md) | 1 Day   7 Hour   Workshop |
+| [AI Solution Architect](./course-pages/ai-solution-architect.md) | Full Time   40 Hour   Short Course |
+| [AI Superpowered Data Professionals](./course-pages/ai-superpowered-data-professionals.md) | Incompete |
+| [Applied AI for Engineers](./course-pages/applied-ai-for-engineers.md) | Full Time   6 Hour or 16 Hour   Workshop |
+| [Foundational Java](./course-pages/foundational-java.md) | Full or Part Time   1 Year   Apprenticeship |
+| [Information Technology Bootcamp](./course-pages/information-technology-bootcamp.md) | Part Time   240 Hours   Bootcamp |
+| [Java Short Course](./course-pages/java-short-course.md) | Full or Part Time   40 Hour or 10 Week   Short Course |
+| [Machine Learning and Applied AI](./course-pages/machine-learning-and-applied-ai.md) | Full Time  26 Hour  Short Course |
+| [Modern Engineering Architecture](./course-pages/modern-engineering-architecture.md) | Full Time   40 Hour   Short Course |
+| [Prework Python Fundamentals](./course-pages/prework-python-fundamentals.md) | Async   3 Hour   Prework |
+| [Python Career Development Program](./course-pages/python-career-development-program.md) | Full or Part Time   1 Year   Apprenticeship |
+| [Python Programming Short Course](./course-pages/python-programming-short-course.md) | Full or Part Time   40 Hour or 10 Week   Short Course |
+| [Python Testing and Reliability](./course-pages/python-testing-and-reliability.md) | Full Time   40 Hour   Short Course |
+| [React Development Short Course](./course-pages/react-development-short-course.md) | Full Time   40 Hour   Short Course |
+| [Software Engineering Bootcamp](./course-pages/software-engineering-bootcamp.md) | Full or Part Time   12 or 32 Week   Bootcamp |
+| [Software Engineering Bootcamp Prework](./course-pages/software-engineering-bootcamp-prework.md) | Async   10 Hour  Prework |
