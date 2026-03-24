@@ -23,6 +23,7 @@ Rather than storing all course content in a single repository, courses are **con
 | [AI Enabled Data Professionals](./course-pages/ai-enabled-data-professionals.md) | 7 Hours |
 | [AI Solution Architect](./course-pages/ai-solution-architect.md) | 26 Hours |
 | [AI Superpowered Data Professionals](./course-pages/ai-superpowered-data-professionals.md) | 17 Hours |
+| [Build AI Powered Web Applications](./course-pages/build-ai-powered-web-applications.md) | 32 Hours |
 | [Foundational Java](./course-pages/foundational-java.md) | 32 Hours |
 | [Front-End Development with HTML & CSS](./course-pages/front-end-development-with-html-css.md) | 32 Hours |
 | [Information Technology Bootcamp](./course-pages/information-technology-bootcamp.md) | 240 Hours |
