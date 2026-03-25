@@ -1,7 +1,4 @@
-<h1>
-  <span class="prefix"></span>
-  <span class="headline">AI Superpowered Data Professionals</span>
-</h1>
+# AI Superpowered Data Professionals
 
 **[Course Incomplete]**
 

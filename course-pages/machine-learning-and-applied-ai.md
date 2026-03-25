@@ -1,7 +1,4 @@
-<h1>
-<span class="prefix"></span>
-<span class="headline">Machine Learning and Applied AI</span>
-</h1>
+# Machine Learning and Applied AI
 
 ## [COURSE INCOMPLETE]
 

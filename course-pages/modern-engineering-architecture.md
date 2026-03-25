@@ -1,7 +1,4 @@
-<h1>
-<span class="prefix"></span>
-<span class="headline">Modern Engineering Architecture</span>
-</h1>
+# Modern Engineering Architecture
 
 ## Installfest Guides
 

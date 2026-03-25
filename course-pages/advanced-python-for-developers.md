@@ -1,7 +1,4 @@
-<h1>
-<span class="prefix"></span>
-<span class="headline">Advanced Python for Developers</span>
-</h1>
+# Advanced Python for Developers
 
 ## Installfest Guides
 

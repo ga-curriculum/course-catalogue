@@ -1,7 +1,4 @@
-<h1>
-<span class="prefix"></span>
-<span class="headline">React Development Short Course</span>
-</h1>
+# React Development Short Course
 
 ## Installfest Guides
 

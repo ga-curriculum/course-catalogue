@@ -1,7 +1,4 @@
-<h1>
-<span class="prefix"></span>
-<span class="headline">AI Solution Architect</span>
-</h1>
+# AI Solution Architect
 
 ## Installfest Guides
 

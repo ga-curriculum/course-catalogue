@@ -1,7 +1,4 @@
-<h1>
-<span class="prefix"></span>
-<span class="headline">Java Short Course</span>
-</h1>
+# Java Short Course
 
 ## Installfest Guides
 

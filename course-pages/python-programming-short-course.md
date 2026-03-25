@@ -1,7 +1,4 @@
-<h1>
-<span class="prefix"></span>
-<span class="headline">Python Programming Short Course</span>
-</h1>
+# Python Programming Short Course
 
 ## Installfest Guides
 

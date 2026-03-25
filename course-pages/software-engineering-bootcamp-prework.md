@@ -1,7 +1,4 @@
-<h1>
-<span class="prefix"></span>
-<span class="headline">Software Engineering Bootcamp Prework</span>
-</h1>
+# Software Engineering Bootcamp Prework
 
 ## Installfest Guides
 

@@ -1,7 +1,4 @@
-<h1>
-<span class="prefix"></span>
-<span class="headline">Information Technology Bootcamp</span>
-</h1>
+# Information Technology Bootcamp
 
 ## Installfest Guides
 

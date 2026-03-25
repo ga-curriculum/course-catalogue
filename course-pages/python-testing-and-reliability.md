@@ -1,7 +1,4 @@
-<h1>
-<span class="prefix"></span>
-<span class="headline">Python Testing & Reliability</span>
-</h1>
+# Python Testing & Reliability
 
 ## Installfest Guides
 

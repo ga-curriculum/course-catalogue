@@ -1,7 +1,4 @@
-<h1>
-<span class="prefix"></span>
-<span class="headline">Prework: Python Fundamentals</span>
-</h1>
+# Prework: Python Fundamentals
 
 ## Installfest Guides
 

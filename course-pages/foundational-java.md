@@ -1,7 +1,4 @@
-<h1>
-<span class="prefix"></span>
-<span class="headline">Foundational Java</span>
-</h1>
+# Foundational Java
 
 ## Installfest Guides
 

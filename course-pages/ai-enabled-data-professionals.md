@@ -1,7 +1,4 @@
-<h1>
-<span class="prefix"></span>
-<span class="headline">AI Enabled Data Professionals</span>
-</h1>
+# AI Enabled Data Professionals
 
 ## Installfest Guides
 
