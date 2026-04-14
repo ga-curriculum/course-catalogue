@@ -25,6 +25,7 @@ Rather than storing all course content in a single repository, courses are **con
 | [AI Superpowered Data Professionals](./course-pages/ai-superpowered-data-professionals.md) | 17 Hours |
 | [Applied AI & Deep Learning in Action](./course-pages/applied-ai-and-deep-learning-in-action.md) | 32 Hours |
 | [Back-End Development with JavaScript](./course-pages/back-end-development-with-javascript.md) | 32 Hours |
+| [Build AI Agents](./course-pages/build-ai-agents.md) | 32 Hours |
 | [Build AI Powered Web Applications](./course-pages/build-ai-powered-web-applications.md) | 32 Hours |
 | [Data Engineering & Automation with AI](./course-pages/data-engineering-and-automation-with-ai.md) | 32 Hours |
 | [Foundational Java](./course-pages/foundational-java.md) | 32 Hours |
