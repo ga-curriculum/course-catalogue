@@ -73,7 +73,7 @@ F --> G[Output]
 
 ## Program Roadmap
 
-| Module | Lab |
+| Module | Lab  |
 |--------|------|
 | [Introduction to the Agentic AI Era](https://github.com/ga-curriculum/introduction-to-the-agentic-ai-era) | [Concept Mapping](https://ga-curriculum.github.io/introduction-to-the-agentic-ai-era/) |
 | [Anatomy of an Agent](https://github.com/ga-curriculum/anatomy-of-an-agent) | [Visual Data Flow Prototype](https://ga-curriculum.github.io/anatomy-of-an-agent/) |
