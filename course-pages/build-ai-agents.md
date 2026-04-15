@@ -72,25 +72,24 @@ F --> G[Output]
 ```
 
 ## Program Roadmap
-
 | Module | Lab |
 |--------|------|
-| [Introduction to the Agentic AI Era](https://github.com/ga-curriculum/Introduction-to-the-Agentic-AI-Era) | [Concept Mapping](https://ga-curriculum.github.io/Introduction-to-the-Agentic-AI-Era/) |
-| [Anatomy of an Agent](https://github.com/ga-curriculum/Anatomy-of-an-Agent) | [Visual Data Flow Prototype](https://ga-curriculum.github.io/Anatomy-of-an-Agent/) |
-| [How Agents Work](https://github.com/ga-curriculum/How-Agents-Work) | [Support Agent Anatomy](https://ga-curriculum.github.io/How-Agents-Work/) |
-| [Current Agentic AI Frameworks and Ecosystems](https://github.com/ga-curriculum/Current-Agentic-AI-Frameworks-and-Ecosystems) | [Platform Comparison Canvas](https://ga-curriculum.github.io/Current-Agentic-AI-Frameworks-and-Ecosystems/) |
-| [Use Cases Across Industries](https://github.com/ga-curriculum/Use-Cases-Across-Industries) | [Case Analysis with Technical Lens](https://ga-curriculum.github.io/Use-Cases-Across-Industries/) |
-| [Prompts, Intents, and Context](https://github.com/ga-curriculum/Prompts-Intents-and-Context) | [Structured Prompt Crafting](https://ga-curriculum.github.io/Prompts-Intents-and-Context/) |
-| [Tools and Actions](https://github.com/ga-curriculum/Tools-and-Actions) | [Tool Integration Challenge](https://ga-curriculum.github.io/Tools-and-Actions/) |
-| [Memory and Learning](https://github.com/ga-curriculum/Memory-and-Learning) | [Conversational Memory Implementation](https://ga-curriculum.github.io/Memory-and-Learning/) |
-| [Multi-Agent Coordination](https://github.com/ga-curriculum/Multi-Agent-Coordination) | [Agent Team Simulation](https://ga-curriculum.github.io/Multi-Agent-Coordination/) |
-| [Integration with Business Data](https://github.com/ga-curriculum/Integration-With-Business-Data) | [Secure Integration Project](https://ga-curriculum.github.io/Integration-With-Business-Data/) |
-| [Task Automation with Agents](https://github.com/ga-curriculum/Task-Automation-With-Agents) | [Process Automation Plan](https://ga-curriculum.github.io/Task-Automation-With-Agents/) |
-| [Agent UX and Interaction](https://github.com/ga-curriculum/Agent-UX-and-Interaction) | [Dialogue Design](https://ga-curriculum.github.io/Agent-UX-and-Interaction/) |
-| [Risks and Security](https://github.com/ga-curriculum/Risks-and-Security) | [Agent Security Audit](https://ga-curriculum.github.io/Risks-and-Security/) |
-| [Building Your First Full Agent](https://github.com/ga-curriculum/Building-Your-First-Full-Agent) | [Functional Prototype](https://ga-curriculum.github.io/Building-Your-First-Full-Agent/) |
-| [Monitoring and Orchestration](https://github.com/ga-curriculum/Monitoring-and-Orchestration) | [Log Analysis and Refinement](https://ga-curriculum.github.io/Monitoring-and-Orchestration/) |
-| [Final Presentation and Future of Agentic AI](https://github.com/ga-curriculum/CAPSTONE-and-Future-of-Agentic-AI) | [Final Project Demonstration](https://ga-curriculum.github.io/CAPSTONE-and-Future-of-Agentic-AI/) |
+| [Introduction to the Agentic AI Era](https://github.com/ga-curriculum/introduction-to-the-agentic-ai-era) | [Concept Mapping](https://ga-curriculum.github.io/introduction-to-the-agentic-ai-era/) |
+| [Anatomy of an Agent](https://github.com/ga-curriculum/anatomy-of-an-agent) | [Visual Data Flow Prototype](https://ga-curriculum.github.io/anatomy-of-an-agent/) |
+| [How Agents Work](https://github.com/ga-curriculum/how-agents-work) | [Support Agent Anatomy](https://ga-curriculum.github.io/how-agents-work/) |
+| [Current Agentic AI Frameworks and Ecosystems](https://github.com/ga-curriculum/current-agentic-ai-frameworks-and-ecosystems) | [Platform Comparison Canvas](https://ga-curriculum.github.io/current-agentic-ai-frameworks-and-ecosystems/) |
+| [Use Cases Across Industries](https://github.com/ga-curriculum/use-cases-across-industries) | [Case Analysis with Technical Lens](https://ga-curriculum.github.io/use-cases-across-industries/) |
+| [Prompts, Intents, and Context](https://github.com/ga-curriculum/prompts-intents-and-context) | [Structured Prompt Crafting](https://ga-curriculum.github.io/prompts-intents-and-context/) |
+| [Tools and Actions](https://github.com/ga-curriculum/tools-and-actions) | [Tool Integration Challenge](https://ga-curriculum.github.io/tools-and-actions/) |
+| [Memory and Learning](https://github.com/ga-curriculum/memory-and-learning) | [Conversational Memory Implementation](https://ga-curriculum.github.io/memory-and-learning/) |
+| [Multi-Agent Coordination](https://github.com/ga-curriculum/multi-agent-coordination) | [Agent Team Simulation](https://ga-curriculum.github.io/multi-agent-coordination/) |
+| [Integration with Business Data](https://github.com/ga-curriculum/integration-with-business-data) | [Secure Integration Project](https://ga-curriculum.github.io/integration-with-business-data/) |
+| [Task Automation with Agents](https://github.com/ga-curriculum/task-automation-with-agents) | [Process Automation Plan](https://ga-curriculum.github.io/task-automation-with-agents/) |
+| [Agent UX and Interaction](https://github.com/ga-curriculum/agent-ux-and-interaction) | [Dialogue Design](https://ga-curriculum.github.io/agent-ux-and-interaction/) |
+| [Risks and Security](https://github.com/ga-curriculum/risks-and-security) | [Agent Security Audit](https://ga-curriculum.github.io/risks-and-security/) |
+| [Building Your First Full Agent](https://github.com/ga-curriculum/building-your-first-full-agent) | [Functional Prototype](https://ga-curriculum.github.io/building-your-first-full-agent/) |
+| [Monitoring and Orchestration](https://github.com/ga-curriculum/monitoring-and-orchestration) | [Log Analysis and Refinement](https://ga-curriculum.github.io/monitoring-and-orchestration/) |
+| [Final Presentation and Future of Agentic AI](https://github.com/ga-curriculum/capstone-and-future-of-agentic-ai) | [Final Project Demonstration](https://ga-curriculum.github.io/capstone-and-future-of-agentic-ai/) |
 
 ---
 
