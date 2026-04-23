@@ -23,21 +23,21 @@ Rather than storing all course content in a single repository, courses are **con
 | [AI Enabled Data Professionals](./course-pages/ai-enabled-data-professionals.md) | 7 Hours |
 | [AI Solution Architect](./course-pages/ai-solution-architect.md) | 26 Hours |
 | [AI Superpowered Data Professionals](./course-pages/ai-superpowered-data-professionals.md) | 17 Hours |
-| [Applied AI & Deep Learning in Action](./course-pages/applied-ai-and-deep-learning-in-action.md) | 32 Hours |
-| [Back-End Development with JavaScript](./course-pages/back-end-development-with-javascript.md) | 32 Hours |
-| [Build AI Agents](./course-pages/build-ai-agents.md) | 32 Hours |
-| [Build AI Powered Web Applications](./course-pages/build-ai-powered-web-applications.md) | 32 Hours |
-| [Data Engineering & Automation with AI](./course-pages/data-engineering-and-automation-with-ai.md) | 32 Hours |
-| [Foundational Java](./course-pages/foundational-java.md) | 32 Hours |
-| [Front-End Development with HTML & CSS](./course-pages/front-end-development-with-html-css.md) | 32 Hours |
-| [Information Technology Bootcamp](./course-pages/information-technology-bootcamp.md) | 240 Hours |
+| [Applied AI & Deep Learning in Action - ADL ](./course-pages/applied-ai-and-deep-learning-in-action.md) | 32 Hours |
+| [Back-End Development with JavaScript - BED ](./course-pages/back-end-development-with-javascript.md) | 32 Hours |
+| [Build AI Agents - BAA ](./course-pages/build-ai-agents.md) | 32 Hours |
+| [Build AI Powered Web Applications - BWA ](./course-pages/build-ai-powered-web-applications.md) | 32 Hours |
+| [Data Engineering & Automation with AI - DEA ](./course-pages/data-engineering-and-automation-with-ai.md) | 32 Hours |
+| [Foundational Java](./course-pages/foundational-java.md) | 40 Hours |
+| [Front-End Development with HTML & CSS - FED ](./course-pages/front-end-development-with-html-css.md) | 32 Hours |
+| [Information Technology Bootcamp - ITB](./course-pages/information-technology-bootcamp.md) | 240 Hours |
 | [Java Short Course](./course-pages/java-short-course.md) | 31 Hours |
 | [Machine Learning and Applied AI](./course-pages/machine-learning-and-applied-ai.md) | 26 Hours |
 | [Modern Engineering Architecture](./course-pages/modern-engineering-architecture.md) | 24 Hours |
 | [Prework Python Fundamentals](./course-pages/prework-python-fundamentals.md) | 3 Hours |
-| [Python for AI & Data](./course-pages/python-for-ai-and-data.md) | 32 Hours |
-| [Python Programming Short Course](./course-pages/python-programming-short-course.md) | 28 Hours |
+| [Python for AI & Data - PAD](./course-pages/python-for-ai-and-data.md) | 32 Hours |
+| [Python Programming Short Course - PPS](./course-pages/python-programming-short-course.md) | 28 Hours |
 | [Python Testing and Reliability](./course-pages/python-testing-and-reliability.md) | 29 Hours |
 | [React Development Short Course](./course-pages/react-development-short-course.md) | 27 Hours |
-| [Software Engineering Bootcamp](./course-pages/software-engineering-bootcamp.md) | 420 Hours |
+| [Software Engineering Bootcamp - SEB](./course-pages/software-engineering-bootcamp.md) | 420 Hours |
 | [Software Engineering Bootcamp Prework](./course-pages/software-engineering-bootcamp-prework.md) | 10 Hours |
